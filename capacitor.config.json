@@ -1,0 +1,6 @@
+{
+  "appId": "com.electrofusion.libre",
+  "appName": "ElectroFusion Libre",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
